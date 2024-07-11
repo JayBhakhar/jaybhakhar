@@ -20,5 +20,5 @@ Graduate a Master degree in Informatics and Computer Technology. A strong passio
 jaybhakhar@gmail.com
 
 ## CV
-  + [CV] Link1
-  + [Резюме] Link2 
+  + [CV](https://drive.google.com/file/d/1lM1Loa3zwQLiqtonGwBvl_qbqEuNaf21/view?usp=drive_link)
+  + [Резюме](https://drive.google.com/file/d/19eKJyFrruxbYPoXLd3jHpRQm30t-aBpJ/view?usp=drive_link)
